@@ -1,0 +1,23 @@
+
+Nguyen Van A:1200.0
+
+Le Thi B:1000.0
+
+Tran Van C:1000.0
+
+Pham Thi D:1200.0
+
+Do Thi F:2000.0
+
+Hoang Van E:2250.0
+
+Nguyen Van G:1200.0
+
+Pham Van H:800.0
+
+Le Van I:1200.0
+
+Hoang Thi J:1800.0
+
+Do Van K:1100.0
+

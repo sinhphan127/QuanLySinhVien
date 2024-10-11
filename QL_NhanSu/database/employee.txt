@@ -1,0 +1,21 @@
+1:1000:Nguyen Van A:2004:Dev:Agribank:123456789
+
+2:1001:Le Thi B:1998:Designer:Sacombank:987654321
+
+3:1002:Tran Van C:1995:Engineer:ABC:132456789
+
+4:1003:Pham Thi D:2001:Designer:Sacombank:978654321
+
+5:1004:Hoang Van E:1992:Manager:ABC:142356789
+
+6:1005:Do Thi F:750:Accountant:Agribank:968754321
+
+7:1006:Nguyen Van G:1990:Dev:MbBank:918273645
+
+8:1007:Pham Van H:1997:Marketing:MbBank:564738291
+
+9:1008:Le Van I:1996:Dev:MbBank:746352860
+
+10:1009:Hoang Thi J:1994:HR:Agribank:363593725
+
+11:1010:Do Van K:2003:Analyst:Sacombank:647382975
